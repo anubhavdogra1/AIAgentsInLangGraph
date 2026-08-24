@@ -1,4 +1,4 @@
-# Agents with LangGraph
+# AI Agents with LangGraph
 
 A comprehensive guide to building agentic AI systems using **LangGraph**—from foundational ReAct patterns to production-ready multi-step workflows with state management and web interfaces.
 
@@ -33,8 +33,8 @@ Learn how to build intelligent agents that can reason, act, and interact with to
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anuragdogra2192/AgentsWithLangGraph.git
-   cd AgentsWithLangGraph
+   git clone https://github.com/anubhavdogra1/AIAgentsWithLangGraph.git
+   cd AIAgentsWithLangGraph
    ```
 
 2. **Install dependencies:**
@@ -63,19 +63,19 @@ Learn how to build intelligent agents that can reason, act, and interact with to
 ## Project Structure
 
 ```text
-AgentsWithLangGraph/
-├── 1_Simple_ReAct_Agent/
-│   └── 1_Simple_ReAct_Agent.ipynb
-├── 2_LangGraph_Components/
-│   └── 2_LangGraph_Components.ipynb
-├── 3_Agentic_Search/
-│   └── 3_Agentic_Search.ipynb
-├── 4_Persistence_and_Streaming/
-│   └── 4_Persistence_and_Streaming.ipynb
-├── 5_Human_in_the_Loop/
-│   └── 5_Human_in_the_Loop.ipynb
-├── 6_Essay_Writer/
-│   ├── 6_Essay_Writer.ipynb
+AIAgentsWithLangGraph/
+├── SimpleReActAgent/
+│   └── Simple_ReAct_Agent.ipynb
+├── LangGraphComponents/
+│   └── LangGraph_Components.ipynb
+├── AgenticSearch/
+│   └── Agentic_Search.ipynb
+├── PersistenceAndStreaming/
+│   └── Persistence_and_Streaming.ipynb
+├── HumanInTheLoop/
+│   └── Human_in_the_Loop.ipynb
+├── EssayWriter/
+│   ├── Essay_Writer.ipynb
 │   ├── helper.py          # Core agent implementation
 │   └── temp_test_gradio.ipynb
 ├── requirements.txt
@@ -154,7 +154,8 @@ Planner ──► Research ──► Generate ──► Reflect ──► Should
 * **SQLite Thread Errors:** Ensure `check_same_thread=False` is set when running persistence checks in notebook environments.
 
 ---
-✅ **Course Completed** — [[DeepLearning.AI Agents with LangGraph Certificate]([https://www.deeplearning.ai/accomplishments/ea12a67a-3776-429a-93f2-88b2accb4691?_gl=1*8tvxj1*_gcl_au*NzY0NzQ5MTQ4LjE3ODMwMDcyNjk.*_ga*MjAwMTA1MjU3Ny4xNzgzMDA3MjY5*_ga_FR2MZ1VLMS*czE3ODc1NDEwNzUkbzExNSRnMSR0MTc4NzU0MTA3NiRqNTkkbDAkaDA.&usp=sharing](https://www.deeplearning.ai/accomplishments/8698a64d-7f95-4362-9749-1a40edbdce1d?accomplishmentId=8698a64d-7f95-4362-9749-1a40edbdce1d&usp=sharing))](https://www.deeplearning.ai/accomplishments/8698a64d-7f95-4362-9749-1a40edbdce1d?accomplishmentId=8698a64d-7f95-4362-9749-1a40edbdce1d&usp=sharing)
+✅ **Course Completed** — [AI Agents in LangGraph Certificate
+](https://www.deeplearning.ai/accomplishments/8698a64d-7f95-4362-9749-1a40edbdce1d?accomplishmentId=8698a64d-7f95-4362-9749-1a40edbdce1d&usp=sharing)
 
 ---
 
@@ -165,6 +166,7 @@ Planner ──► Research ──► Generate ──► Reflect ──► Should
 
 ---
 
-## Author
+## Contact
 
 **Anubhav Dogra**
+anubhavdogra7@gmail.com
