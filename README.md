@@ -167,6 +167,6 @@ Planner ──► Research ──► Generate ──► Reflect ──► Should
 ---
 
 ## Contact
-
 **Anubhav Dogra**
+
 anubhavdogra7@gmail.com
